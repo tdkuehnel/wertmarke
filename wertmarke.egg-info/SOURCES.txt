@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+wertmarke/__init__.py
+wertmarke.egg-info/PKG-INFO
+wertmarke.egg-info/SOURCES.txt
+wertmarke.egg-info/dependency_links.txt
+wertmarke.egg-info/entry_points.txt
+wertmarke.egg-info/not-zip-safe
+wertmarke.egg-info/top_level.txt

@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: wertmarke
+Version: 0.1dev
+Summary: This is the python Wertmarken server package, including daemon, server and client program
+Home-page: http://wertmarken.datentaeter.org
+Author: Torsten Kuehnel
+Author-email: info@datentaeter.org
+License: GPL
+Description: This is the python Wertmarken server package, including daemon, server and client program
+Keywords: wertmarke daemon client server valuetoken
+Platform: UNKNOWN
